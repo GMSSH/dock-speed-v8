@@ -73,7 +73,7 @@ GMSSH 是一款专为 AI 时代设计的 **桌面级 AI 运维终端**。
 * **AI 助手**：自动诊断终端报错，一键修复 Linux 环境问题，比 StackOverflow 更懂你的服务器。
 * **完全免费**：我们致力于为开发者提供最纯粹、最高效的运维体验。
 
-👉 [访问 GMSSH 官网](https://www.google.com/search?q=https://gmssh.com) | [加入微信交流群](https://www.google.com/search?q=%23)
+👉 [访问 GMSSH 官网](https://www.google.com/search?q=https://gmssh.com) | [加入微信交流群](https://gmb-prod-gw.oss-accelerate.aliyuncs.com/up/18/act_banner/172835696761c341a2arIRtgR.jpg)
 
 ---
 
