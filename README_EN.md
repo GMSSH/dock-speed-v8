@@ -24,12 +24,10 @@ As the team behind **GMSSH**, deep-rooted in server management tools, we underst
 ## ⚡ Quick Start
 
 ### Recommended: One-Click Configuration (Supports Ubuntu, CentOS, Debian, etc.)
-Automatically detect your system and configure the `https://docker.gmssh.com` accelerator:
+Use GMSSH-Docker Manager Automatically detect your system and configure the `https://docker.gmssh.com` accelerator:
 
-```bash
-curl -sSL [https://raw.githubusercontent.com/GMSSH/mirror/main/install.sh](https://raw.githubusercontent.com/GMSSH/mirror/main/install.sh) | sudo bash
+<img width="2386" height="1344" alt="image" src="https://github.com/user-attachments/assets/0a56505a-9fa6-4ab5-9873-71cd47992ddc" />
 
-```
 
 ### Manual Configuration
 
@@ -74,7 +72,7 @@ GMSSH is a **Desktop-level AI Ops Terminal** designed for the AI era.
 * **AI Copilot**: Automatically diagnose terminal errors and fix Linux environment issues instantly.
 * **Completely Free**: We are committed to providing the purest and most efficient Ops experience for developers.
 
-👉 [Visit GMSSH Website](https://www.google.com/search?q=https://gmssh.com) | [Join Community](https://www.google.com/search?q=%23)
+👉 [Visit GMSSH Website](https://gmssh.com) | [Join Community](https://www.google.com/search?q=%23)
 
 ---
 
